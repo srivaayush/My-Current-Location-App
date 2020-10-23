@@ -3,7 +3,7 @@
 A new Flutter application.
 
 Steps to create it :
-1) Add geolocator dependencies to pubspec.yaml file.
+1) Add geolocator dependencies to pubspec.yaml file.(Link for the package : https://pub.dev/packages/geolocator)
 2) Permission Alert through Android>App>src>main>AndroidManifest.xml
   """<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />""" 
