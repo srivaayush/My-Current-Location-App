@@ -2,6 +2,17 @@
 
 A new Flutter application.
 
+Steps to create it :
+1) Add geolocator dependencies to pubspec.yaml file.
+2) Permission Alert through Android>App>src>main>AndroidManifest.xml
+  """<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />""" 
+ 3) Created a basic ui
+ 4) Imported the packages and used it to get current location(The Latitude and Longitude)
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
